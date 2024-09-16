@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	secp256k1 "github.com/Blockdag/go-secp256k1"
+	secp256k1 "github.com/BlockdagNetworkLabs/go-secp256k1"
 	"github.com/btcsuite/btcd/btcec/v2"
 )
 

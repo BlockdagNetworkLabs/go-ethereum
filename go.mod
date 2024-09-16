@@ -4,8 +4,8 @@ go 1.22.3
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.2.0
+	github.com/BlockdagNetworkLabs/go-secp256k1 v0.0.0-20240916154125-65fab5a64670
 	github.com/Microsoft/go-winio v0.6.1
-	github.com/Blockdag/go-secp256k1 v0.5.1
 	github.com/VictoriaMetrics/fastcache v1.12.1
 	github.com/aws/aws-sdk-go-v2 v1.21.2
 	github.com/aws/aws-sdk-go-v2/config v1.18.45
@@ -147,5 +147,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
-
-replace github.com/Blockdag/go-secp256k1 v0.5.1 => ../go-secp256k1

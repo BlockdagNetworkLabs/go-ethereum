@@ -24,7 +24,7 @@ import (
 	"errors"
 	"fmt"
 
-	secp256k1 "github.com/Blockdag/go-secp256k1"
+	secp256k1 "github.com/BlockdagNetworkLabs/go-secp256k1"
 	"github.com/ethereum/go-ethereum/common/math"
 )
 
