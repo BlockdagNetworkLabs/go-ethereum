@@ -143598,7 +143598,7 @@
 "894ba833": "disableContract()",
 "894ca160": "CanToken()",
 "894ca535": "updateSecondaryFee(uint256)",
-"894ccb15": "getBdagC20Coins(uint256)",
+"894ccb15": "getMeERC20Coins(uint256)",
 "894cd9b6": "placeBuy(address,uint256,uint256)",
 "894cdcc1": "ADXToken(address,address,uint256,uint256,uint256,address,uint256,address,uint256,address,uint256)",
 "894cf910": "_transferFrom(address,uint256)",
